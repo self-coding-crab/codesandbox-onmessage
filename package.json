@@ -8,7 +8,8 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "websnark": "git+https://github.com/peppersec/websnark.git#c254b5962287b788081be1047fa0041c2885b39f"
   },
   "scripts": {
     "start": "react-scripts start",
